@@ -1,2 +1,2 @@
-# Sales DSashboard
+# Sales Dashboard
 My BI Dashboards
